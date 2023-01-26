@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+html{
+    background:url(red0088.png);
+}
+
+body{
+    width: 800px;
+    margin: 0 auto;
+}
+
+h2.daru{
+    font-family:'玉ねぎ楷書激無料版v6',cursive;
+    text-align: center;
+    font-size: 50px;
+    font-weight: ;
+    letter-spacing: 1px;
+    line-height: 1.3;
+}
+
+h1{
+    text-align: center;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    }
+
+    nav li{
+        list-style: none;
+        margin: 30px;
+        font-size: 24px;
+    }
+    nav li :hover{
+        font-size: 120%;
+}
+
+.png{
+display: flex;
+}
+
+p{
+    text-align: center;
+}
